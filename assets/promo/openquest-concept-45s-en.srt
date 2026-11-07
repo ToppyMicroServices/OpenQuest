@@ -1,0 +1,35 @@
+1
+00:00:00,500 --> 00:00:03,257
+Every conversation brings a character to life.
+
+2
+00:00:05,400 --> 00:00:08,413
+Your agents get to work, sharing what they discover.
+
+3
+00:00:11,400 --> 00:00:13,581
+As they talk, new tasks take shape.
+
+4
+00:00:17,400 --> 00:00:20,242
+Their work builds homes, and helps the town grow.
+
+5
+00:00:23,500 --> 00:00:25,595
+Zoom out, and see the bigger picture.
+
+6
+00:00:27,100 --> 00:00:31,627
+Related themes bring towns closer. Different themes set them farther apart.
+
+7
+00:00:35,400 --> 00:00:37,581
+And together, they create a new world.
+
+8
+00:00:40,300 --> 00:00:41,393
+OpenQuest.
+
+9
+00:00:42,200 --> 00:00:44,082
+Conversations become worlds.

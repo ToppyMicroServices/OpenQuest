@@ -1,0 +1,28 @@
+name: Product feedback / 製品へのフィードバック
+description: Share a workflow, question, or suggestion for OpenQuest.
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        OpenQuest is a Research Preview. Please use fictional or redacted examples.
+        公開の投稿です。秘密情報・実際の会話・顧客データは含めないでください。
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Your workflow / 整理したい仕事
+      description: What are you trying to do with AI?
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Current difficulty / 今困っていること
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Desired behavior or question / 見たい動作・質問
+    validations:
+      required: true
